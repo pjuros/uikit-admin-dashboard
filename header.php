@@ -47,4 +47,4 @@
 			</ul>
 		</div>
 		
-		<div class="uk-width-medium-5-6 app-container">
+		<div class="uk-width-medium-5-6 uk-height-1-1 app-container">

@@ -28,8 +28,10 @@
 
 .app-sidebar {
 	background: #EFEFEF;
+	overflow: auto;
 }
 
 .app-container {
 	padding: 16px 20px 30px 20px;
+	overflow: auto;
 }
