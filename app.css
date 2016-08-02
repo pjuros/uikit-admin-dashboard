@@ -1,3 +1,21 @@
+.app-navbar {
+	background-color: #32A6D5;
+}
+
+.app-navbar > .uk-navbar-brand {
+	color: white;
+	text-shadow: none;
+}
+
+.app-navbar > .uk-navbar-flip > .uk-navbar-content {
+	color: white;
+	text-shadow: none;
+}
+
 .app-sidebar {
-	background: #EEEEEE;
+	background: #EFEFEF;
+}
+
+.app-container {
+	padding: 16px 20px 30px 20px;
 }
