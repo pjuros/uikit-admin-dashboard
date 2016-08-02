@@ -1,5 +1,8 @@
 .app-navbar {
 	background-color: #32A6D5;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
 
 .app-navbar > .uk-navbar-brand {
@@ -10,6 +13,17 @@
 .app-navbar > .uk-navbar-flip > .uk-navbar-content {
 	color: white;
 	text-shadow: none;
+}
+
+.app-navbar > .uk-navbar-flip > .uk-navbar-nav > li > a {
+	color: white;
+	text-shadow: none;
+}
+
+.app-navbar > .uk-navbar-flip > .uk-navbar-nav > li > a:hover {
+	color: white;
+	text-shadow: none;
+	background-color: #56B9DF;
 }
 
 .app-sidebar {
