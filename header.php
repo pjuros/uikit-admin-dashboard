@@ -44,6 +44,7 @@
 				<li class="uk-nav-divider"></li>
 				<li><a href="/"><i class="uk-icon-dashboard uk-icon-justify"></i> Dashboard</a></li>
 				<li><a href="tables.php"><i class="uk-icon-table uk-icon-justify"></i> Tables</a></li>
+				<li><a href="panels.php"><i class="uk-icon-clone uk-icon-justify"></i> Panels</a></li>
 			</ul>
 		</div>
 		
