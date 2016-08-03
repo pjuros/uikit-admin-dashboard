@@ -17,17 +17,9 @@
 		<a href="/" class="uk-navbar-brand">UIkit admin dashboard</a>
 		<div class="uk-navbar-flip">
 			<ul class="uk-navbar-nav">
-				<li data-uk-dropdown="" class="uk-parent" aria-haspopup="true" aria-expanded="false">
-					<a href="#"><i class="uk-icon-user"></i> Some user <i class="uk-icon-caret-down"></i></a>
-					<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-top" style="top: 0px; left: 0px;">
-						<ul class="uk-nav uk-nav-navbar">
-							<li><a href="/"><i class="uk-icon-user uk-icon-justify"></i> Profile</a></li>
-							<li><a href="/"><i class="uk-icon-cog uk-icon-justify"></i> Settings</a></li>
-							<li class="uk-nav-divider"></li>
-							<li><a href="/"><i class="uk-icon-power-off uk-icon-justify"></i> Log out</a></li>
-						</ul>
-					</div>
-				</li>
+				<li><a href="/"><i class="uk-icon-user"></i> Username</a></li>
+				<li><a href="/"><i class="uk-icon-cog uk-icon-justify"></i> Settings</a></li>
+				<li><a href="/"><i class="uk-icon-power-off uk-icon-justify"></i> Log out</a></li>
 			</ul>
 		</div>
 	</nav>
