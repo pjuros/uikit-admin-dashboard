@@ -1,5 +1,5 @@
 # uikit-admin-dashboard
-Admin template based on UIkit front-end framework.
+Admin template based on UIkit front-end framework (http://getuikit.com/docs/core.html).
 
 ## Installation
 
