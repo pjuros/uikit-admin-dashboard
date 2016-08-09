@@ -1,2 +1,10 @@
 # uikit-admin-dashboard
-Admin dashboard template based on UIkit front-end framework
+Admin template based on UIkit front-end framework.
+
+## Installation
+
+Project uses PHP to include header and footer into pages, so serve project folder with any web server that supports PHP.
+
+## Screenshots
+
+![Tables](https://github.com/pjuros/uikit-admin-dashboard/blob/master/img/screenshot_1.png)
